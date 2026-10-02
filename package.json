@@ -1,0 +1,15 @@
+{
+  "name": "nr33-vigia-3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Jogo educativo NR 33 • Vigia (espaços confinados) em 3D",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test.mjs",
+    "manifest": "node manifest.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
